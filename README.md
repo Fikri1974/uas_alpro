@@ -16,7 +16,7 @@ Kelas : TI.19.A3
 ![screenshot](https://user-images.githubusercontent.com/59908259/72413806-31079980-37a3-11ea-9e72-a1d6e97463f7.png)
 
 
-Penjelasan : 
+Penjelasan : program ini digunakan untuk menghitung bilangan
 
 2. Flowchart
 
